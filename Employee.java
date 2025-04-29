@@ -14,10 +14,10 @@ public class Employee {
            
         }
         public void display(){
-            System.out.println("Employee name :"+name);
-            System.out.println("Employee id :"+id);
-            System.out.println("Employee salary :  $"+salary);
-            System.out.println("Employee location :  "+location);
+            System.out.println("Employee name"+name);
+            System.out.println("Employee id"+id);
+            System.out.println("Employee salary"+salary);
+            System.out.println("Employee location"+location);
             
         }
         public static void main(String[] args){
